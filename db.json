@@ -1,0 +1,74 @@
+{
+  "products": [
+    {
+      "title": "Macbook",
+      "description": "This page provides reviews and other infos about the Apple MacBook Air 13 inch 2015-03 of the series MacBook Air laptop.",
+      "image": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/macbook-air-gold-select-201810?wid=892&hei=820&&qlt=80&.v=1603332211000",
+      "price": "200",
+      "id": 3
+    },
+    {
+      "title": "Samsung",
+      "description": "This page provides reviews and other infos about the Apple MacBook Air 13 inch 2015-03 of the series MacBook Air laptop.",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/mbp16touch-space-select-201911?wid=892&hei=820&&qlt=80&.v=1572825197207",
+      "price": "3000",
+      "id": 4
+    },
+    {
+      "title": "Jyldyz",
+      "description": "Любит собак и может скодить собаку.  Когда Жылдыз говорит даже горы молчат. ",
+      "image": "https://media-exp1.licdn.com/dms/image/C4D03AQECDFstdDxgUQ/profile-displayphoto-shrink_400_400/0/1604412439059?e=1613606400&v=beta&t=zV7lGL3DYhdkE0XzQZIFDn9SK0t5p5JKH_GnQaiShi0",
+      "price": "500000",
+      "id": 5
+    },
+    {
+      "title": "Zhantai",
+      "description": "Работал на Титанике и в группе Jeja. Умеет делать мобильную адаптацию и легко находит общий язык с кавказцами! ",
+      "image": "https://i.ibb.co/4PCWtW2/2020-12-17-13-26-45.jpg",
+      "price": "500000",
+      "id": 6
+    },
+    {
+      "title": "Adilet (Адик/Адижон/Адилет байке)",
+      "description": "Работает директором и говорит кому че делать и сам сидит и считает деньги. ",
+      "price": "500000",
+      "image": "https://i.ibb.co/mNjWzyW/2020-12-17-13-32-22.jpg",
+      "id": 7
+    },
+    {
+      "image": "https://i.ibb.co/9tWv2n1/2020-12-17-13-32-17.jpg",
+      "title": "Emirlan (aka мастер по Пагинациям)",
+      "description": "Мамы не плачьте, что увели ваших дочек. Аууууфф 👆",
+      "price": "500",
+      "id": 8
+    },
+    {
+      "title": "Mac",
+      "description": " Apple Buy 16-inch MacBook Pro $2,799.00* Pay over time. Buy Now!",
+      "price": "2000",
+      "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbook-air-gold-select-201810?wid=892&hei=820&&qlt=80&.v=1603332211000",
+      "id": 9
+    },
+    {
+      "title": "Asus",
+      "description": "sxdcfgtyhuj",
+      "price": "3000",
+      "image": "https://media-exp1.licdn.com/dms/image/C4D03AQECDFstdDxgUQ/profile-displayphoto-shrink_400_400/0/1604412439059?e=1613606400&v=beta&t=zV7lGL3DYhdkE0XzQZIFDn9SK0t5p5JKH_GnQaiShi0",
+      "id": 11
+    },
+    {
+      "title": "111111",
+      "description": "11111",
+      "price": "20000",
+      "image": "https://media-exp1.licdn.com/dms/image/C4D03AQECDFstdDxgUQ/profile-displayphoto-shrink_400_400/0/1604412439059?e=1613606400&v=beta&t=zV7lGL3DYhdkE0XzQZIFDn9SK0t5p5JKH_GnQaiShi0",
+      "id": 12
+    },
+    {
+      "title": "111111",
+      "description": "Любит собак и может скодить собаку.  Когда Жылдыз говорит даже горы молчат. ",
+      "price": "20000",
+      "image": "https://media-exp1.licdn.com/dms/image/C4D03AQECDFstdDxgUQ/profile-displayphoto-shrink_400_400/0/1604412439059?e=1613606400&v=beta&t=zV7lGL3DYhdkE0XzQZIFDn9SK0t5p5JKH_GnQaiShi0",
+      "id": 13
+    }
+  ]
+}

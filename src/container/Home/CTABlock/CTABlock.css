@@ -1,0 +1,124 @@
+.mainCtb1 {
+ 
+  /* height: min-content; */
+  /* width: 1340px; */
+  display: flex;
+  position: relative;
+  display: flex;
+ padding-bottom: 50px;
+}
+
+.ctbOne {
+ 
+  height: 300px;
+  width: 670px;
+  padding-left: 70px;
+  padding-top: 80px;
+  color: gray;
+}
+
+.ctbTwo {
+ 
+  height: 300px;
+  width: 670px;
+  padding-top: 110px;
+  padding-left: 50px;
+}
+
+.button1 {
+  border: 3px solid gray;
+  height: 65px;
+  width: 200px;
+  background-color: gray;
+  border-radius: 5px;
+}
+
+.input1 {
+  /* */
+  height: 65px;
+  width: 300px;
+  padding-left: 25px;
+}
+
+@media (max-width: 1000px) {
+  .mainCtb1 {
+    display: flex;
+    flex-direction: column;
+  }
+}
+
+/*  
+  .CTB1 {
+    justify-content: space-around;
+    color: gray;
+  }
+  
+  .input1 {
+    width: 350px;
+    height: 60px;
+    padding-left: 25px;
+    border-bottom: gray 1px solid;
+    color: rgb(141, 25, 25);
+  }
+  .CTB2 {
+    display: flex;
+    flex-direction: row;
+  }
+  
+  .button1 {
+    width: 150px;
+    height: 65px;
+    background: #3f3e3d;
+    border: none;
+    color: #fff;
+    text-align: center;
+    padding-left: 5;
+  }
+  
+  
+  @media (max-width: 960px) {
+    .mediCTAB1 {
+      width: 100%;
+      overflow: hidden;
+      background-image: 30%;
+      display: flex;
+      justify-content: center;
+    }
+  }
+
+
+  @media (max-width: 960px) {
+    .CTB1 {
+      width: 100%;
+      overflow: hidden;
+      background-image: 30%;
+      display: flex;
+      justify-content: center;
+    }
+  }
+  
+
+  @media (max-width: 960px) {
+    .CTB2 {
+      width: 100%;
+      overflow: hidden;
+      background-image: 30%;
+      display: flex;
+      justify-content: center;
+    }
+    /* h1{
+
+    } */
+/* }
+  
+
+  @media (max-width: 960px) {
+    .mediCTAB1 {
+      width: 100%;
+      overflow: hidden;
+      background-image: 30%;
+      display: flex;
+      justify-content: center;
+    }
+  }
+   */
